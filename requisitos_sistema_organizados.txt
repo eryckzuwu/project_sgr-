@@ -318,3 +318,6 @@ Resumo: Criar uma funcionalidade para salvar todas as informações cadastradas 
 - Salvar vendas e funcionários.
 - Manter estoques individuais por unidade.
 - Permitir recuperar as informações após sair e entrar novamente no sistema.
+
+OBSERVAÇÃO IMPORTANTE:
+A partir do prompt 12, a I.A ultilizada não suportou as grandes linhas de código (ela estava reescrevendo tudo a cada atualização), então ali pelos prompts 18, ela gerava somente poucas atualizações e os prompts tinham de ser bem escritos.
