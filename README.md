@@ -1,8 +1,7 @@
 ## project_sgr
 Um projeto de controle de estoque, funcionários, pedidos de mercadorias, e vendas de uma loja de tênis, vibe coding.
 
-# Sistema de Gestão - World Tennis
-
+# Sistema de Gestão 
 Sistema web desenvolvido em HTML, CSS e JavaScript para auxiliar no gerenciamento das operações de uma loja World Tennis.
 
 ## Funcionalidades
